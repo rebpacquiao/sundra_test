@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.5.1",
+    "@primeuix/themes": "^1.0.0",
+    "@primevue/core": "^4.0.0",
     "@types/stripe-v3": "^3.1.33",
     "@uppy/aws-s3-multipart": "^3.11.1",
     "@uppy/dashboard": "^3.8.3",
@@ -32,11 +34,12 @@
     "file-saver": "^2.0.5",
     "interactjs": "^1.10.27",
     "lodash": "^4.17.21",
+    "nuxt-primevue": "^3.0.0",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
-    "primeflex": "^3.3.1",
+    "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
-    "primevue": "^3.52.0",
+    "primevue": "^4.3.4",
     "remark-docx": "^0.1.6",
     "remark-parse": "^11.0.0",
     "showdown": "^2.1.0",
@@ -66,7 +69,6 @@
     "html-docx-ts": "^0.0.5",
     "nuxt": "^3.12.2",
     "nuxt-icon": "^0.6.10",
-    "nuxt-primevue": "^3.0.0",
     "pusher-js": "^8.4.0-rc2"
   }
 }
