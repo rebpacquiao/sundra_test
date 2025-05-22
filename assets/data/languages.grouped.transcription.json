@@ -1,0 +1,72 @@
+[
+    { "label": "Icelandic", "value": "is-IS" },
+    {
+        "label": "English",
+        "code": "en",
+        "items": [
+            { "label": "English - US", "value": "en-US" },
+            { "label": "English - Australian", "value": "en-AU" },
+            { "label": "English - British", "value": "en-GB" },
+            { "label": "English - Indian", "value": "en-IN" },
+            { "label": "English - Irish", "value": "en-IE" },
+            { "label": "English - New Zealand", "value": "en-GB" },
+            { "label": "English - Scottish", "value": "en-AB" },
+            { "label": "English - South African", "value": "en-ZA" },
+            { "label": "English - Welsh", "value": "en-WL" }
+        ]
+    },
+    {
+        "label": "French",
+        "code": "fr",
+        "items": [
+            { "label": "French", "value": "fr-FR" },
+            { "label": "French - Canadian", "value": "fr-CA" }
+        ]
+    },
+    {
+        "label": "German",
+        "code": "de",
+        "items": [
+            { "label": "German", "value": "de-DE" },
+            { "label": "German - Swiss", "value": "de-CH" }
+        ]
+    },
+    {
+        "label": "Spanish",
+        "code": "es",
+        "items": [
+            { "label": "Spanish", "value": "es-ES" },
+            { "label": "Spanish - US", "value": "es-US" }
+        ]
+    },
+    {
+        "label": "Portuguese",
+        "code": "pt",
+        "items": [
+            { "label": "Portuguese", "value": "pt-PT" },
+            { "label": "Brazilian", "value": "pt-BR" }
+        ]
+    },
+    {
+        "label": "Chinese",
+        "code": "zh",
+        "items": [
+            { "label": "Chinese - Simplified", "value": "zh-CN" },
+            { "label": "Chinese - Traditional", "value": "zh-TW" }
+        ]
+    },
+    {
+        "label": "Various",
+        "code": "va",
+        "items": [
+            { "label": "Danish", "value": "da-DK" },
+            { "label": "Dutch", "value": "nl-NL" },
+            { "label": "Swedish", "value": "sv-SE" },
+            { "label": "Italian", "value": "it-IT" },
+            { "label": "Japanese", "value": "ja-JP" },
+            { "label": "Korean", "value": "ko-KR" },
+            { "label": "Turkish", "value": "tr-TR" },
+            { "label": "Russian", "value": "ru-RU"}
+        ]
+    }
+]

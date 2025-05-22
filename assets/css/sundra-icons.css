@@ -1,0 +1,344 @@
+.s-icon {
+    display: inline-block;
+}
+
+.si-clips:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/clips.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-outcomes:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/outcomes.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-close:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/close.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-length:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/length.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-add:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/add.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-download:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/download.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-edit:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/edit.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-cross:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/cross.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-ellipsis:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/ellipsis.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-share:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/share.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-image-add:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/image-add.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-trash:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/trash.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-wand:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/wand.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-info:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/info.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-filter:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/filter.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-eye:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/eye.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-speaker:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/speaker.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-camera:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/camera.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-close:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/close.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-templates:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/templates.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-schedule:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/schedule.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-checkbox-circle:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/checkbox-circle.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-design:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/design.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-events:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/events.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-dashboard:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/dashboard.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-videos:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/videos.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-file:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/file.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-calendar:before {
+    content: '';
+    display: block;
+    height: 1em;
+    width: 1em;
+    background-image: url('./assets/icons/calendar.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-tag:before {
+    content: '';
+    display: block;
+    height: 1rem;
+    width: 1rem;
+    background-image: url('./assets/icons/tag.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-wallet:before {
+    content: '';
+    display: block;
+    height: 1rem;
+    width: 1rem;
+    background-image: url('./assets/icons/wallet.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}
+
+.si-check:before {
+    content: '';
+    display: block;
+    height: 1rem;
+    width: 1rem;
+    background-image: url('./assets/icons/check.svg');
+    background-position: initial;
+    background-size: initial;
+    background-repeat: initial;
+}

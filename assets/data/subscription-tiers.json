@@ -1,0 +1,154 @@
+{
+    "creator": {
+        "name": "Creator",
+        "button": "Creator",
+        "price": {
+            "monthly": {
+                "USD": 49.00
+            },
+            "yearly": {
+                "USD": 490.00
+            },
+            "per_minute": {
+                "USD": 1
+            }
+        },
+        "description": "Suitable for creators that need to caption a few videos each month.",
+        "tagline": "What's included",
+        "lines": [
+            "1 hour of captioning",
+            "Automatic captioning",
+            "1 team member",
+            "Price per extra minute {CURRENCY}"
+        ]
+    },
+    "producer": {
+        "name": "Producer",
+        "button": "Producer",
+        "price": {
+            "monthly": {
+                "USD": 149.00
+            },
+            "yearly": {
+                "USD": 1490.00
+            },
+            "per_minute": {
+                "USD": 0.8
+            }
+        },
+        "description": "For video professionals who regularly caption for film and TV.",
+        "tagline": "Everything in Creator, plus",
+        "lines": [
+            "4 hours of captioning",
+            "Advanced captions editing",
+            "Dialogue lists",
+            "Price per extra minute {CURRENCY}"
+        ]
+    },
+    "broadcaster": {
+        "name": "Broadcaster",
+        "button": "Broadcaster",
+        "price": {
+            "monthly": {
+                "USD": 490.00
+            },
+            "yearly": {
+                "USD": 4990.00
+            },
+            "per_minute": {
+                "USD": 0.7
+            }
+        },
+        "description": "Perfect for broadcasting networks and streaming services.",
+        "tagline": "Everything in Producer, plus",
+        "lines": [
+            "20 hours of captioning",
+            "Premium support",
+            "Up to 5 team members",
+            "Price per extra minute {CURRENCY}"
+        ]
+    },
+
+    "personal": {
+        "name": "Personal",
+        "button": "Personal",
+        "price": {
+            "monthly": {
+                "USD": 0.00,
+                "ISK": 0.00
+            },
+            "yearly": {
+                "USD": 0.00,
+                "ISK": 0.00
+            },
+            "per_minute": {
+                "USD": 1.00,
+                "ISK": 120.00
+            }
+        },
+        "description": "Try out our platform and only start paying after the first 30 minutes.",
+        "tagline": "First 30 minutes free & {CURRENCY}/min for extra minutes + applicable taxes",
+        "lines": [
+            "First 30 minutes free",
+            "10 GB storage",
+            "1 user",
+            "{CURRENCY}/min for extra minutes"
+        ]
+    },
+    "business": {
+        "name": "Business",
+        "button": "Business",
+        "price": {
+            "monthly": {
+                "USD": 39.00,
+                "ISK": 4900.00
+            },
+            "yearly": {
+                "USD": 390.0,
+                "ISK": 49000.00
+            },
+            "per_minute": {
+                "USD": 0.80,
+                "ISK": 100.00
+            }
+        },
+        "description": "For professionals with regular transcription needs.",
+        "tagline": "60 minutes per month & {CURRENCY}/min for extra minutes + applicable taxes",
+        "lines": [
+            "Free 60 minutes per month",
+            "100 GB storage",
+            "1 user",
+            "{CURRENCY}/min for extra minutes"
+        ]
+    },
+    "enterprise": {
+        "name": "Enterprise",
+        "button": "Contact sales",
+        "price": {
+            "monthly": {
+                "USD": 490.00,
+                "ISK": 49000.00
+            },
+            "yearly": {
+                "USD": 4990.0,
+                "ISK": 490000.00
+            },
+            "per_minute": {
+                "USD": 0.70,
+                "ISK": 90.00
+            }
+        },
+        "per_minute": {
+            "USD": 0.6,
+            "ISK": 80
+        },
+        "description": "For professionals and teams with large recurring transcription needs.",
+        "tagline": "120+ minutes per month & {CURRENCY}/min for extra minutes + applicable taxes",
+        "lines": [
+            "Free 120+ minutes per month",
+            "1+ TB storage",
+            "Multiple user",
+            "{CURRENCY}/min for extra minutes"
+        ]
+    }
+}

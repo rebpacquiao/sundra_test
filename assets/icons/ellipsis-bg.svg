@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer2"
+     style="display:inline">
+    <path
+       id="rect1"
+       style="fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.975118;stroke-dasharray:none"
+       d="M 18.90625,0 C 8.4319802,0 0,8.4319802 0,18.90625 v 162.1875 C 0,191.56802 8.4319802,200 18.90625,200 h 162.1875 C 191.56802,200 200,191.56802 200,181.09375 V 18.90625 C 200,8.4319802 191.56802,0 181.09375,0 Z M 100,32 A 17,17 0 0 1 117,49 17,17 0 0 1 100,66 17,17 0 0 1 83,49 17,17 0 0 1 100,32 Z m 0,50 a 17,17 0 0 1 17,17 17,17 0 0 1 -17,17 17,17 0 0 1 -17,-17 17,17 0 0 1 17,-17 z m 0,50 a 17,17 0 0 1 17,17 17,17 0 0 1 -17,17 17,17 0 0 1 -17,-17 17,17 0 0 1 17,-17 z" />
+  </g>
+</svg>
