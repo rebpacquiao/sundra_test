@@ -34,7 +34,7 @@
     "file-saver": "^2.0.5",
     "interactjs": "^1.10.27",
     "lodash": "^4.17.21",
-    "nuxt-primevue": "^3.0.0",
+    "nuxt-primevue": "^4.0.0-beta.4",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
     "primeflex": "^4.0.0",
